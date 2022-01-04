@@ -1,0 +1,86 @@
+[
+    {
+        "vehicleId":"SC1",
+        "tripDate": 1641307217000,
+        "tripDuration": 110,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC2",
+        "tripDate": 1641307217000,
+        "tripDuration": 90,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC3",
+        "tripDate": 1641307217000,
+        "tripDuration": 60,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC2",
+        "tripDate": 1641307217000,
+        "tripDuration": 90,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC4",
+        "tripDate": 1641307217000,
+        "tripDuration": 30,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC2",
+        "tripDate": 1641307217000,
+        "tripDuration": 40,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC2",
+        "tripDate": 1641307217000,
+        "tripDuration": 60,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC1",
+        "tripDate": 1641307217000,
+        "tripDuration": 90,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC6",
+        "tripDate": 1641307217000,
+        "tripDuration": 60,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC2",
+        "tripDate": 1641307217000,
+        "tripDuration": 60,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC1",
+        "tripDate": 1641307217000,
+        "tripDuration": 90,
+        "region": "Singapore",
+        "type":"scooter"
+    },
+    {
+        "vehicleId":"SC6",
+        "tripDate": 1641307217000,
+        "tripDuration": 60,
+        "region": "Singapore",
+        "type":"scooter"
+    }
+]
