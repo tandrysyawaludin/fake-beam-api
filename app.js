@@ -16,8 +16,8 @@ app.get('/vehicles', (req, res) => {
 app.get('/trips', (req, res) => {
     const _tripsJson = tripsJson;
     for(let i = 0; i < tripsJson.length; i++) {
-        _tripsJson['charge'] = ratePerHourJson[tripsJson[i].region].number * tripsJson[i].duration;
-        _tripsJson['unit'] = ratePerHourJson[tripsJson[i].region].unit;
+        _tripsJson[i]['charge'] = ratePerHourJson[tripsJson[i].region].number * tripsJson[i].duration;
+        _tripsJson[i]['unit'] = ratePerHourJson[tripsJson[i].region].unit;
     }
     res.json(_tripsJson);
 })
