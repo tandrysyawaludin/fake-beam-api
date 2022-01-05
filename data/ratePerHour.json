@@ -1,3 +1,6 @@
 {
-  "singapore": 12
+  "singapore": {
+    number: 12,
+    unit: 'SGD'
+  }
 }
