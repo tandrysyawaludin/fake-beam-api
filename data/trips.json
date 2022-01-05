@@ -1,85 +1,85 @@
 [
     {
         "vehicleId":"SC1",
-        "tripDate": 1641307217000,
-        "tripDuration": 110,
+        "date": 1641307217000,
+        "duration": 110,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC2",
-        "tripDate": 1641307217000,
-        "tripDuration": 90,
+        "date": 1641307217000,
+        "duration": 90,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC3",
-        "tripDate": 1641307217000,
-        "tripDuration": 60,
+        "date": 1641307217000,
+        "duration": 60,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC2",
-        "tripDate": 1641307217000,
-        "tripDuration": 90,
+        "date": 1641307217000,
+        "duration": 90,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC4",
-        "tripDate": 1641307217000,
-        "tripDuration": 30,
+        "date": 1641307217000,
+        "duration": 30,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC2",
-        "tripDate": 1641307217000,
-        "tripDuration": 40,
+        "date": 1641307217000,
+        "duration": 40,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC2",
-        "tripDate": 1641307217000,
-        "tripDuration": 60,
+        "date": 1641307217000,
+        "duration": 60,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC1",
-        "tripDate": 1641307217000,
-        "tripDuration": 90,
+        "date": 1641307217000,
+        "duration": 90,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC6",
-        "tripDate": 1641307217000,
-        "tripDuration": 60,
+        "date": 1641307217000,
+        "duration": 60,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC2",
-        "tripDate": 1641307217000,
-        "tripDuration": 60,
+        "date": 1641307217000,
+        "duration": 60,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC1",
-        "tripDate": 1641307217000,
-        "tripDuration": 90,
+        "date": 1641307217000,
+        "duration": 90,
         "region": "singapore",
         "type":"scooter"
     },
     {
         "vehicleId":"SC6",
-        "tripDate": 1641307217000,
-        "tripDuration": 60,
+        "date": 1641307217000,
+        "duration": 60,
         "region": "singapore",
         "type":"scooter"
     }
