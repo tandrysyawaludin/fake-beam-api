@@ -6,7 +6,12 @@ const tripsJson = require('./data/trips.json');
 const ratePerHourJson = require('./data/ratePerHour.json');
 
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send(`
+    <h1>API List</h1>
+    <ul>
+        <li>Get vehicles data: /vehicles</li>
+        <li>Get trips data: /trips</li>
+    </ul>`);
 });
 
 app.get('/vehicles', (req, res) => {
